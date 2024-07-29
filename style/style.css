@@ -1,0 +1,47 @@
+body {
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    margin-top: 200px;
+    background-color: aliceblue;
+}
+
+.container {
+    text-align: center;
+    background: rgb(223, 132, 163);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 70%;
+    border: 2px solid red;
+    
+}
+
+textarea {
+    width: 90%;
+    padding: 10px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    border: 2px solid;
+}
+
+p {
+    margin-top: 10px;
+    font-size: 1.2em;
+}
+#charCount{
+    color: blue;
+    
+}
+#charCount1{
+    color: Red;
+}
+#para1{
+    margin-left: -250px;
+}
+#para2{
+    margin-left: 300px;
+    margin-top: -40px;
+}
